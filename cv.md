@@ -22,9 +22,10 @@
    * VS Code
    * Adobe Photoshop
 
-   ### **Code Example **
+### **Code Example **
       function reverseWords(str){
         return str.split(" ").reverse().join(' ')
       }
+      
 ### **English**
 My English is between beginner and intermediate. Many things in English I understand.
